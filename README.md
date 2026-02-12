@@ -1,1 +1,3 @@
-# simple-chat-application-319573
+# Project Repository
+
+This is the initial README file for the project.
